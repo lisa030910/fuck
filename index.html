@@ -138,5 +138,10 @@ fullscreenBtn.addEventListener('click', (e) => {
     subBtns.style.display = 'none'; 
 });
 </script>
+    <script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js');
+}
+</script>
 </body>
 </html>
