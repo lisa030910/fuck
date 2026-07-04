@@ -2,7 +2,32 @@
   "name": "你想要什么",
   "short_name": "你想要什么",
   "start_url": ".",
+  "scope": ".",
   "display": "fullscreen",
+  "orientation": "portrait",
   "background_color": "#000000",
-  "theme_color": "#000000"
+  "theme_color": "#000000",
+  "description": "你想要什么",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/RhzSF9PV/IMG-3285.jpg",
+      "sizes": "125x125",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://i.postimg.cc/RhzSF9PV/IMG-3285.jpg",
+      "sizes": "144x144",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://i.postimg.cc/RhzSF9PV/IMG-3285.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://i.postimg.cc/RhzSF9PV/IMG-3285.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
 }
